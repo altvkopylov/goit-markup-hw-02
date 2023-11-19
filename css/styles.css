@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFF;
+    line-height: 24px;
+}
+
+.navigations a {
+    color: #2E2F42;
+}
+
+.contacts a {
+    color: #434455;
+}
+
+a:hover, button:hover, a:focus, button:focus {
+    color: #404BBF;
+}
+
+.promo {
+    background-color: #2E2F42;
+}
+
+.promo h1 {
+    font-size: 56px;
+    line-height: 60px;
+    font-weight: 700;
+    color: #FFF;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+}
+
+footer a {
+    text-transform: uppercase;
+    color: #F4F4FD;
+    text-decoration: none;
+}
+
+footer span {
+    color: #4D5AE5;
+}
+
+.section-title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #2E2F42;
+}
+
+.item-title {
+    font-size: 20px;
+}
+
+button {
+    cursor: pointer;
+}
