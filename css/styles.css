@@ -28,6 +28,11 @@ body {
 
 .active {
     font-weight: 500;
+    letter-spacing: 0.02em;
+}
+
+.active:hover, .active:focus {
+    color: #404bbf;
 }
 
 address {
@@ -120,6 +125,7 @@ footer a {
 .footer .logo-footer .logo-span {
     color:#f4f4fd;
 }
+
 /* ALL */
 
 .section-title {
@@ -132,6 +138,8 @@ footer a {
 .item-title {
     font-size: 20px;
     color: #2e2f42;
+    font-weight: 500;
+    letter-spacing: 0.02em;
 }
 
 .item-description {
