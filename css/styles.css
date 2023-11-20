@@ -5,6 +5,14 @@ body {
     line-height: 24px;
 }
 
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
 /* HEADER */
 
 .logo {
